@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\C Babu\eclipse-workspace\WebProject\src\main\webapp\index.html"/>
 			<item value="C:\Users\C Babu\eclipse-workspace\Project1\src\main\webapp\index1.html"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -29,9 +30,11 @@
 			<item value="war"/>
 		</list>
 		<list key="groupId">
+			<item value="babu"/>
 			<item value="in.babu"/>
 		</list>
 		<list key="artifactId">
+			<item value="10"/>
 			<item value="babupackage"/>
 		</list>
 		<list key="projectNameTemplate">
