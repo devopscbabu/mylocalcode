@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="CommitDialog.authorValues">
+		<item value="babu &lt;cbabu85@gmail.com&gt;"/>
 		<item value="cbabu85 &lt;cbabu85@gmail.com&gt;"/>
 	</list>
 	<list key="CommitDialog.committerValues">
+		<item value="babu &lt;cbabu85@gmail.com&gt;"/>
 		<item value="cbabu85 &lt;cbabu85@gmail.com&gt;"/>
 	</list>
 	<list key="EGit.KnownHosts">
@@ -43,14 +45,7 @@
 			<item value=""/>
 		</list>
 		<list key="C:\Users\C Babu\eclipse-workspace\.git">
-			<item value="false"/>
-			<item value="babu &lt;cbabu85@gmail.com&gt;"/>
-			<item value="Updates"/>
-			<item value="babu &lt;cbabu85@gmail.com&gt;"/>
-			<item value="e759ccb79f14596a496aa1642ce5ce607459efbb"/>
-			<item value="0"/>
-			<item value="false"/>
-			<item value=""/>
+			<item value="empty"/>
 		</list>
 	</section>
 </section>

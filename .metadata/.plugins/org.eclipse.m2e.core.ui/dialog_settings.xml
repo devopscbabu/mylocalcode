@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\C Babu\eclipse-workspace\MyFirstProject"/>
+			<item value="C:\Users\C Babu\eclipse-workspace\maventest\pom.xml"/>
 			<item value="C:\Users\C Babu\eclipse-workspace\WebProject\src\main\webapp\index.html"/>
 			<item value="C:\Users\C Babu\eclipse-workspace\Project1\src\main\webapp\index1.html"/>
 		</list>
@@ -28,14 +30,15 @@
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
 			<item value="war"/>
+			<item value="zip"/>
 		</list>
 		<list key="groupId">
-			<item value="babu"/>
-			<item value="in.babu"/>
+			<item value="babu.addressbook"/>
+			<item value="myname010"/>
 		</list>
 		<list key="artifactId">
-			<item value="10"/>
-			<item value="babupackage"/>
+			<item value="addressbook"/>
+			<item value="1.0"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

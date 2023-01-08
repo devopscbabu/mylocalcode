@@ -2,4 +2,8 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="org.junit.AfterClass"/>
     <fullyQualifiedTypeName name="org.junit.Before"/>
+    <fullyQualifiedTypeName name="babuJunitProject.Calculator"/>
+    <fullyQualifiedTypeName name="Calcpackage.calcclass"/>
+    <fullyQualifiedTypeName name="project1package.project1class"/>
+    <fullyQualifiedTypeName name="project2package.project2class"/>
 </qualifiedTypeNameHistroy>
