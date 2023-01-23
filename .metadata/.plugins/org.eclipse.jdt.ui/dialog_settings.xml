@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="2"/>
 	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-17"/>
-	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\C Babu\Junit"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\Babu\selenium-java-4.7.2\lib"/>
 	<section name="JavaElementSearchActions">
 	</section>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
@@ -16,7 +16,7 @@
 		<item key="pageIndex" value="2"/>
 	</section>
 	<section name="ClasspathContainerSelectionPage">
-		<item key="index" value="4"/>
+		<item key="index" value="8"/>
 	</section>
 	<section name="NewPackageWizardPage">
 		<item key="create_package_info_java" value="true"/>
@@ -66,5 +66,26 @@
 		<item key="DIALOG_WIDTH" value="951"/>
 		<item key="DIALOG_HEIGHT" value="625"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="FatJarPackageWizard">
+		<item key="FatJarPackageWizardPage.ANTSCRIPT_SAVE" value="false"/>
+		<item key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION" value="C:\Users\C Babu\eclipse-workspace"/>
+		<item key="FatJarPackageWizardPage.LIBRARY_HANDLING" value="2"/>
+		<item key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME" value="A - Demo_Test"/>
+		<item key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION" value="C:\Users\Babu\SeleniumExport\seleniumjar2.jar"/>
+		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="C:\Users\Babu\SeleniumExport\seleniumjar2.jar"/>
+			<item value="C:\Users\Babu\SeleniumExport\seleniumjar.jar"/>
+		</list>
+		<list key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION_HISTORY">
+			<item value="C:\Users\C Babu\eclipse-workspace.xml"/>
+			<item value=".xml"/>
+		</list>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.PackageSelectionDialog">
+		<item key="x" value="631"/>
+		<item key="y" value="5"/>
+		<item key="width" value="658"/>
+		<item key="height" value="711"/>
 	</section>
 </section>

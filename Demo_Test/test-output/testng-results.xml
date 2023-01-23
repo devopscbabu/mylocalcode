@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-23T21:52:57 IST" name="Default suite" finished-at="2023-01-23T21:53:17 IST" duration-ms="19833">
+    <groups>
+    </groups>
+    <test started-at="2023-01-23T21:52:57 IST" name="Default test" finished-at="2023-01-23T21:53:17 IST" duration-ms="19833">
+      <class name="mypackage.NewTest">
+        <test-method signature="f()[pri:0, instance:mypackage.NewTest@67c33749]" started-at="2023-01-23T21:52:57 IST" name="f" finished-at="2023-01-23T21:53:05 IST" duration-ms="8141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="launchBrowser()[pri:0, instance:mypackage.NewTest@67c33749]" started-at="2023-01-23T21:53:05 IST" name="launchBrowser" finished-at="2023-01-23T21:53:16 IST" duration-ms="10393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="closeBrowser()[pri:0, instance:mypackage.NewTest@67c33749]" started-at="2023-01-23T21:53:16 IST" name="closeBrowser" finished-at="2023-01-23T21:53:17 IST" depends-on-methods="mypackage.NewTest.launchBrowser" duration-ms="1192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- mypackage.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

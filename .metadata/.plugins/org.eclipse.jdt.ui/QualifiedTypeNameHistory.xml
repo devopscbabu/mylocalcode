@@ -6,4 +6,8 @@
     <fullyQualifiedTypeName name="Calcpackage.calcclass"/>
     <fullyQualifiedTypeName name="project1package.project1class"/>
     <fullyQualifiedTypeName name="project2package.project2class"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+    <fullyQualifiedTypeName name="org.testng.Assert"/>
 </qualifiedTypeNameHistroy>

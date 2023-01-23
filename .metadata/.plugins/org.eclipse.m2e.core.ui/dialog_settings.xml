@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\C Babu\eclipse-workspace\Project2\pom.xml"/>
+			<item value="C:\Users\C Babu\eclipse-workspace\mycal"/>
 			<item value="C:\Users\C Babu\eclipse-workspace\MyFirstProject"/>
 			<item value="C:\Users\C Babu\eclipse-workspace\maventest\pom.xml"/>
 			<item value="C:\Users\C Babu\eclipse-workspace\WebProject\src\main\webapp\index.html"/>
@@ -17,7 +19,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
-		<item key="catalog" value="https://repo1.maven.org/maven2/archetype-catalog.xml"/>
+		<item key="catalog" value="All Catalogs"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -29,16 +31,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="war"/>
-			<item value="zip"/>
 		</list>
 		<list key="groupId">
-			<item value="babu.addressbook"/>
-			<item value="myname010"/>
 		</list>
 		<list key="artifactId">
-			<item value="addressbook"/>
-			<item value="1.0"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -54,10 +50,12 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.mavendemo"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="my-demomaven"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -74,5 +72,18 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="Project2"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="Project2"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
 	</section>
 </section>
